@@ -5,7 +5,5 @@ To be a **full-stack developer** who enjoys other fields(humanities, arts, etc.)
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/handlecusion"
-    width="600"
-    height="120"
   />
 </a>
