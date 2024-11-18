@@ -9,3 +9,5 @@ To be a full-stack developer who enjoys other fields(humanities, arts, etc.) tog
   height="300"
 />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handlecusion)](https://github.com/anuraghazra/github-readme-stats)
