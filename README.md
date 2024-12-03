@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1> About me </h1>
-  To be a full-stack developer who enjoys other fields(humanities, arts, etc.) together!
+  To be a full-stack developer who enjoys other fields together!
 </div>
 
 <br>
