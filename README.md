@@ -8,7 +8,6 @@
   <h1> About me </h1>
   To be a full-stack developer who enjoys other fields together!
 </div>
-
 <br>
 
 <div align="center">
