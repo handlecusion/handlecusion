@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=handlecusion&fontSize=90" />
 </div>
 
-
 <div align="center">
   
   <h1> About me </h1>
