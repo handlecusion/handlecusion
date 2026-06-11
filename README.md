@@ -38,3 +38,15 @@ This is close to what a *Forward Deployed Engineer* does: less "here is a tool,"
 ### Currently
 
 Building local-first substrates where agents can see, act, and leave evidence — plus a knowledge layer that compounds across sessions instead of resetting to zero.
+
+---
+
+## Open Source Contributions
+
+<!-- OSS_START -->
+
+_Auto-refreshed 2026-06-11 via `gh` CLI (`scripts/update_oss_contributions.py`)._
+
+No external merged PRs found yet. Add target repositories to `oss_contributions.json` after contributions land.
+
+<!-- OSS_END -->

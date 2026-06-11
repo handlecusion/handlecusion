@@ -1,0 +1,11 @@
+{
+  "username": "handlecusion",
+  "title": "Open Source Contributions",
+  "auto_discover_when_empty": true,
+  "categories": [
+    {
+      "name": "Selected OSS Contributions",
+      "repos": []
+    }
+  ]
+}
