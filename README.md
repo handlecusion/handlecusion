@@ -45,8 +45,14 @@ Building local-first substrates where agents can see, act, and leave evidence �
 
 <!-- OSS_START -->
 
-_Auto-refreshed 2026-06-11 via `gh` CLI (`scripts/update_oss_contributions.py`)._
+_Auto-refreshed 2026-06-11 via `gh` CLI (`scripts/update_oss_contributions.py`): **6 merged PRs** across **3 external repos**; curated repo star surface: **45,607 stars**._
 
-No external merged PRs found yet. Add target repositories to `oss_contributions.json` after contributions land.
+### AI agent tooling
+
+| Project | Description | Stars | Merged PRs | Notes |
+|:--|:--|--:|:-:|:--|
+| <img src="https://github.com/chopratejas.png" width="18" align="top"/> [chopratejas/headroom](https://github.com/chopratejas/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 22,049 | [2](https://github.com/chopratejas/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| <img src="https://github.com/can1357.png" width="18" align="top"/> [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 11,781 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| <img src="https://github.com/fathah.png" width="18" align="top"/> [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 11,777 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 <!-- OSS_END -->

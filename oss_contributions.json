@@ -4,8 +4,27 @@
   "auto_discover_when_empty": true,
   "categories": [
     {
-      "name": "Selected OSS Contributions",
-      "repos": []
+      "name": "AI agent tooling",
+      "repos": [
+        {
+          "owner": "chopratejas",
+          "name": "headroom",
+          "description": "compress tool outputs, logs, files, and RAG chunks before they reach the LLM",
+          "notes_markdown": ""
+        },
+        {
+          "owner": "can1357",
+          "name": "oh-my-pi",
+          "description": "AI coding agent for the terminal",
+          "notes_markdown": ""
+        },
+        {
+          "owner": "fathah",
+          "name": "hermes-desktop",
+          "description": "desktop companion for Hermes Agent",
+          "notes_markdown": ""
+        }
+      ]
     }
   ]
 }
