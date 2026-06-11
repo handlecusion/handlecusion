@@ -54,3 +54,11 @@ Building local-first substrates where agents can see, act, and leave evidence ‚Ä
 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ‚≠ê 11,778 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 <!-- OSS_END -->
+
+---
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=handlecusion&show_icons=true&hide_border=true&theme=transparent" alt="handlecusion's GitHub stats" />
+  </a>
+</p>
