@@ -17,7 +17,6 @@ import re
 import subprocess
 import sys
 from dataclasses import dataclass
-from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -176,8 +175,7 @@ def repo_description(spec: RepoSpec, repo_data: dict[str, Any] | None) -> str:
 
 def build_row(spec: RepoSpec, author: str, stars: int | None, merged: int | None, desc: str) -> str:
     pr_query = f"https://github.com/{spec.key}/pulls?q=author%3A{author}+is%3Amerged"
-    avatar = f'<img src="https://github.com/{spec.owner}.png" width="18" align="top"/>'
-    project = f'{avatar} [{spec.key}](https://github.com/{spec.key})'
+    project = f'[{spec.key}](https://github.com/{spec.key})'
     merged_cell = f"[{merged if merged is not None else '—'}]({pr_query})"
     notes = spec.notes_markdown or ""
     return "| {project} | {desc} | {stars} | {merged} | {notes} |".format(
@@ -190,13 +188,7 @@ def build_row(spec: RepoSpec, author: str, stars: int | None, merged: int | None
 
 
 def build_section(username: str, specs: list[RepoSpec]) -> str:
-    kst = timezone(timedelta(hours=9))
-    today = datetime.now(kst).strftime("%Y-%m-%d")
-
     rows_by_category: dict[str, list[tuple[int, int, str]]] = {}
-    total_prs = 0
-    total_stars = 0
-    repos_with_prs = 0
 
     for spec in specs:
         repo_data = fetch_repo(spec.owner, spec.name)
@@ -205,26 +197,12 @@ def build_section(username: str, specs: list[RepoSpec]) -> str:
         merged = fetch_merged_pr_count(spec.owner, spec.name, username)
         desc = repo_description(spec, repo_data)
 
-        if merged:
-            total_prs += merged
-            repos_with_prs += 1
-        if stars:
-            total_stars += stars
-
         row = build_row(spec, username, stars, merged, desc)
         rows_by_category.setdefault(spec.category, []).append((merged or 0, stars or 0, row))
         print(f"[INFO] {spec.key}: stars={stars} merged_prs={merged}")
 
     lines: list[str] = [""]
     if specs:
-        lines.extend(
-            [
-                f"_Auto-refreshed {today} via `gh` CLI (`scripts/update_oss_contributions.py`): "
-                f"**{total_prs:,} merged PRs** across **{repos_with_prs:,} external repos**; "
-                f"curated repo star surface: **{total_stars:,} stars**._",
-                "",
-            ]
-        )
         for category, rows in rows_by_category.items():
             lines.extend(
                 [
@@ -240,8 +218,6 @@ def build_section(username: str, specs: list[RepoSpec]) -> str:
     else:
         lines.extend(
             [
-                f"_Auto-refreshed {today} via `gh` CLI (`scripts/update_oss_contributions.py`)._",
-                "",
                 "No external merged PRs found yet. Add target repositories to `oss_contributions.json` after contributions land.",
                 "",
             ]
