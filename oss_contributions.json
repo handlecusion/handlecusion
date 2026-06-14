@@ -25,6 +25,17 @@
           "notes_markdown": ""
         }
       ]
+    },
+    {
+      "name": "Editor tooling",
+      "repos": [
+        {
+          "owner": "AstroNvim",
+          "name": "astrocommunity",
+          "description": "community plugin specifications for AstroNvim",
+          "notes_markdown": ""
+        }
+      ]
     }
   ]
 }
