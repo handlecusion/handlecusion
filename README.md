@@ -49,15 +49,22 @@ Building local-first substrates where agents can see, act, and leave evidence �
 
 | Project | Description | Stars | Merged PRs | Notes |
 |:--|:--|--:|:-:|:--|
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 26,382 | [2](https://github.com/chopratejas/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 12,271 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
-| [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 12,054 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 30,016 | [2](https://github.com/chopratejas/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 12,858 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 12,305 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) | native Safari browser automation for AI agents via AppleScript | ⭐ 114 | [1](https://github.com/achiya-automation/safari-mcp/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 ### Editor tooling
 
 | Project | Description | Stars | Merged PRs | Notes |
 |:--|:--|--:|:-:|:--|
-| [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) | community plugin specifications for AstroNvim | ⭐ 1,685 | [1](https://github.com/AstroNvim/astrocommunity/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [AstroNvim/astrocommunity](https://github.com/AstroNvim/astrocommunity) | community plugin specifications for AstroNvim | ⭐ 1,686 | [1](https://github.com/AstroNvim/astrocommunity/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+
+### Healthcare AI
+
+| Project | Description | Stars | Merged PRs | Notes |
+|:--|:--|--:|:-:|:--|
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | local-first clinical NER & HIPAA PII de-identification, 100% on-device | ⭐ 3,566 | [1](https://github.com/maziyarpanahi/openmed/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 <!-- OSS_END -->
 

@@ -23,6 +23,12 @@
           "name": "hermes-desktop",
           "description": "desktop companion for Hermes Agent",
           "notes_markdown": ""
+        },
+        {
+          "owner": "achiya-automation",
+          "name": "safari-mcp",
+          "description": "native Safari browser automation for AI agents via AppleScript",
+          "notes_markdown": ""
         }
       ]
     },
@@ -33,6 +39,17 @@
           "owner": "AstroNvim",
           "name": "astrocommunity",
           "description": "community plugin specifications for AstroNvim",
+          "notes_markdown": ""
+        }
+      ]
+    },
+    {
+      "name": "Healthcare AI",
+      "repos": [
+        {
+          "owner": "maziyarpanahi",
+          "name": "openmed",
+          "description": "local-first clinical NER & HIPAA PII de-identification, 100% on-device",
           "notes_markdown": ""
         }
       ]
