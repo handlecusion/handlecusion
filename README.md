@@ -52,7 +52,7 @@ Building local-first substrates where agents can see, act, and leave evidence �
 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 14,906 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 12,789 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 | [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) | native Safari browser automation for AI agents via AppleScript | ⭐ 125 | [1](https://github.com/achiya-automation/safari-mcp/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 52,644 | [0](https://github.com/chopratejas/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 53,120 | [2](https://github.com/headroomlabs-ai/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 ### Editor tooling
 
