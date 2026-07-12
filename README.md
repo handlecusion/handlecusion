@@ -49,10 +49,10 @@ Building local-first substrates where agents can see, act, and leave evidence �
 
 | Project | Description | Stars | Merged PRs | Notes |
 |:--|:--|--:|:-:|:--|
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 17,321 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
-| [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 13,265 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 58,598 | [2](https://github.com/headroomlabs-ai/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | AI coding agent for the terminal | ⭐ 17,335 | [2](https://github.com/can1357/oh-my-pi/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | desktop companion for Hermes Agent | ⭐ 13,266 | [2](https://github.com/fathah/hermes-desktop/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 | [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) | native Safari browser automation for AI agents via AppleScript | ⭐ 150 | [1](https://github.com/achiya-automation/safari-mcp/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | compress tool outputs, logs, files, and RAG chunks before they reach the LLM | ⭐ 58,581 | [0](https://github.com/chopratejas/headroom/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 ### Editor tooling
 
@@ -64,7 +64,7 @@ Building local-first substrates where agents can see, act, and leave evidence �
 
 | Project | Description | Stars | Merged PRs | Notes |
 |:--|:--|--:|:-:|:--|
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | local-first clinical NER & HIPAA PII de-identification, 100% on-device | ⭐ 4,491 | [1](https://github.com/maziyarpanahi/openmed/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | local-first clinical NER & HIPAA PII de-identification, 100% on-device | ⭐ 4,493 | [1](https://github.com/maziyarpanahi/openmed/pulls?q=author%3Ahandlecusion+is%3Amerged) |  |
 
 <!-- OSS_END -->
 

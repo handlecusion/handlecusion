@@ -7,7 +7,7 @@
       "name": "AI agent tooling",
       "repos": [
         {
-          "owner": "chopratejas",
+          "owner": "headroomlabs-ai",
           "name": "headroom",
           "description": "compress tool outputs, logs, files, and RAG chunks before they reach the LLM",
           "notes_markdown": ""

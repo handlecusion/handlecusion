@@ -212,7 +212,7 @@ def build_section(username: str, specs: list[RepoSpec]) -> str:
                     "|:--|:--|--:|:-:|:--|",
                 ]
             )
-            for _merged, _stars, row in sorted(rows, key=lambda item: (-item[0], -item[1])):
+            for _merged, _stars, row in sorted(rows, key=lambda item: (-item[1], -item[0])):
                 lines.append(row)
             lines.append("")
     else:
