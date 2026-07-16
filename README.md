@@ -72,6 +72,6 @@ Building local-first substrates where agents can see, act, and leave evidence â€
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=handlecusion&show_icons=true&hide_border=true&theme=transparent" alt="handlecusion's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=handlecusion&show_icons=true&hide_border=true&theme=transparent" alt="handlecusion's GitHub stats" />
   </a>
 </p>
